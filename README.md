@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-Crafter12&show_icons=true&locale=en&layout=compact" alt="Code-Crafter12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Crafter12&" alt="Code-Crafter12" /></p>
